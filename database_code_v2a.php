@@ -1,6 +1,7 @@
 <?php
 
 
+
 	function get_database_path()
 	{
 		return 'C:\Users\Russell Brown\Documents\Database Code\database.dat';
